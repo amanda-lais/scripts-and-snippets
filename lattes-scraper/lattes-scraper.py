@@ -46,7 +46,6 @@ def scrape_lattes(x):
     f.close()
     print('\n' + txt_nome + ' criado com sucesso!\n\n')
 
-opcao = 0
 while True:
     print("Opção 1: Títulos - Artigos completos publicados em perioódicos")
     print("Opção 2: Títulos - Textos em jornais de notícias/revistas")
